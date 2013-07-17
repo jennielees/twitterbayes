@@ -1,0 +1,7 @@
+Threshold: 0.0
+238 pos correct. 262 incorrect as neg. 0 unknown
+243 neg correct. 257 incorrect as pos. 0 unknown
+Precision (pos): 0.480808080808
+Recall (pos): 0.476
+F1 (pos): 0.478391959799
+Accuracy (total): 0.481

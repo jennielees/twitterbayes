@@ -1,0 +1,14 @@
+* Naive Bayes trained on rotten sents with 500 reserved
+* tested on reserved 500
+* variable threshold
+* problem - best result with 0 thresh since P/R don't penalise
+* incorrect classification...
+
+
+Threshold: 0.0
+375 pos correct. 124 incorrect as neg. 1 unknown
+379 neg correct. 121 incorrect as pos. 1 unknown
+Precision (pos): 0.756048387097
+Recall (pos): 0.75
+F1 (pos): 0.753012048193
+Accuracy (total): 0.754
